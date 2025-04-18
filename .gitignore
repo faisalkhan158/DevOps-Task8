@@ -1,0 +1,15 @@
+# Ignore target folder
+target/
+
+# Ignore Maven wrapper
+.mvn/
+.mvnw
+.mvnw.cmd
+
+# Ignore IDEs
+.idea/
+*.iml
+*.vscode/
+
+# Ignore system files
+.DS_Store
