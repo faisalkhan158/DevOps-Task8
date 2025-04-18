@@ -1,4 +1,4 @@
-# 🚀 DevOps Task 8 - Java Maven Build in Jenkins
+# 🚀 DevOps Task 8 - Run a Simple Java Maven Build Job in Jenkins
 
 ## Objective
 Learn how to use Jenkins to build a simple Java application using Maven.
